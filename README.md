@@ -1,7 +1,7 @@
 # Pyautogui-Zipato
 An Automation and Recorder Script for Zipato
 
-**_Make sure you have cloned this git branch_**
+**_Make sure you're running this script on laptop or computer with 1366 x 768 display resolution_**
 
 ## Installing prerequisite files
 1. Download prerequisite files on this [link](https://bit.ly/pyautodep). Extract on root folder.
