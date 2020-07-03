@@ -21,4 +21,4 @@ An Automation and Recorder Script for Zipato
 2. To record activity type: `python record.py template_name` . For example: `python record.py BWS_MAIN`
 3. Press esc button on your keyboard to end your recording.
 
-_nb: use firefox for browser_
+_nb: use firefox as a browser_
