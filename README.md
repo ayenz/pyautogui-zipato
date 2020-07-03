@@ -12,12 +12,11 @@ An Automation and Recorder Script for Zipato
 4. Install dependencies
    - `pip install pyHook-1.5.1-cp27-cp27m-win_amd64.whl`
    - `pip install pywin32-227-cp27-cp27m-win_amd64.whl`
-5. After pip install PyWin32, go inside the folder where Python is installed, run the following command
-   - `python Scripts\pywin32_postinstall.py -install`
+5. Install PyWin32, go inside the folder where Python is installed, run the following command `python Scripts\pywin32_postinstall.py -install`
 6. Install pyautogui
    `pip install pyautogui`
    
 ## Start recording
-1. Create new directory on root folder with name **recorder**
+1. Create a new directory on root folder with name **recorder**
 1. To record activity type: `python record.py template_name` . For example: `python record.py BWS_MAIN`
 2. Press esc button on your keyboard to end your recording.
