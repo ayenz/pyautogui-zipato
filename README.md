@@ -18,5 +18,6 @@ An Automation and Recorder Script for Zipato
    
 ## Start recording
 1. Create a new directory on root folder with name **recorder**
-1. To record activity type: `python record.py template_name` . For example: `python record.py BWS_MAIN`
-2. Press esc button on your keyboard to end your recording.
+2. To record activity type: `python record.py template_name` . For example: `python record.py BWS_MAIN`
+3. Press esc button on your keyboard to end your recording.
+_nb: use firefox for browser_
